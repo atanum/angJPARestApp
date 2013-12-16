@@ -1,16 +1,15 @@
 spring-mvc-angularjs
 ====================
 
-A simple application that 
-1) Uses of cxf for REST service
-2) JPA spring data to persist data
-3) TO DO : Angukar JS UI
+A simple account managment application that 
+1) exposes cxf REST services
+2) Uses JPA spring data to persist data
+3) TO DO : Angular JS UI
 
-RUN: 
-
+Steps to run: 
+mvn clean install
 mvn jetty:run
-
-Then open the URL: http://localhost:8080/AngularSpringApp
+WADL URL: http://localhost:8181
 
 
 NOTE:
