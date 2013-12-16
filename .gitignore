@@ -1,0 +1,10 @@
+*.class
+
+#folders#
+/target
+/src/main/webapp/WEB-INF/classes
+
+# Packaged files #
+*.jar
+*.war
+*.ear

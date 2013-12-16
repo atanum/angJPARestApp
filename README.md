@@ -7,9 +7,13 @@ A simple account managment application that
 3) TO DO : Angular JS UI
 
 Steps to run: 
+
 mvn clean install
 mvn jetty:run
-WADL URL: http://localhost:8181
+WADL URL: http://localhost:8181/rest?_wadl
+
+To get all dependenies in eclipse use
+mvn eclipse:eclipse
 
 
 NOTE:
